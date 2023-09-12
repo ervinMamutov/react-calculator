@@ -1,7 +1,7 @@
 import './App.css';
-import Card from './assets/components/Card';
-import Screen from './assets/components/Screen';
-import Button from './assets/components/Button';
+import Card from './components/Card';
+import Screen from './components/Screen';
+import Button from './components/Button';
 import { useState } from 'react';
 import data from './data/data';
 import { evaluate, sqrt, round } from 'mathjs';
