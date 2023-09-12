@@ -1,0 +1,12 @@
+.screen-container {
+  display: flex;
+  justify-content: center;
+}
+
+.screen-text {
+  color: black;
+  width: 298px;
+  height: 50px;
+  font-size: 45px;
+  text-align: end;
+}
